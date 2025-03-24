@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.Form1.resources
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\bin\Debug\net8.0-windows\day10_winform.exe
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\bin\Debug\net8.0-windows\day10_winform.deps.json
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\bin\Debug\net8.0-windows\day10_winform.runtimeconfig.json
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\bin\Debug\net8.0-windows\day10_winform.dll
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\bin\Debug\net8.0-windows\day10_winform.pdb
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.dll
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\refint\day10_winform.dll
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.pdb
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\day10_winform.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ปี 3\T.Sarun\day10_winform\day10_winform\obj\Debug\net8.0-windows\ref\day10_winform.dll
